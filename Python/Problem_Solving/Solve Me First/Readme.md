@@ -1,8 +1,8 @@
 Complete the function solveMeFirst to compute the sum of two integers.
 
-Example
-a = 7
-b - 3
+Example<br>
+a = 7<br>
+b = 3
 
 Return 10.
 
@@ -18,15 +18,15 @@ int b: the second value
 Returns
 - int: the sum of  and 
 
-Constraints
+Constraints<br>
 1 <= a, b <= 1000
 
-Sample Input
-a = 2
+Sample Input<br>
+a = 2<br>
 b = 3
 
-Sample Output
+Sample Output<br>
 5
 
-Explanation
+Explanation<br>
 2 + 3 = 5
