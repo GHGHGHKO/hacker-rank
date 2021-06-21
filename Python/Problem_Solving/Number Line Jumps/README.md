@@ -45,7 +45,7 @@ Explanation 0
 
 The two kangaroos jump through the following sequence of locations:
 
-[!캥거루]https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png
+![캥거루](https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png)
 
 From the image, it is clear that the kangaroos meet at the same location (number 12 on the number line) after same number of jumps (4    jumps), and we print YES.
 
