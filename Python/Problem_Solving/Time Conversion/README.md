@@ -25,7 +25,7 @@ Returns
 
 Input Format
 
-A single string  that represents a time in -hour clock format (i.e.:  or ).
+A single string s that represents a time in 12-hour clock format (i.e.: hh:mm:ssAM or hh:mm:ssPM).
 
 Constraints
 
