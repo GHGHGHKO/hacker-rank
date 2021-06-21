@@ -14,7 +14,7 @@ For example, Sam's house is between s = 7 and t = 10. The apple tree is located 
     1
     2
 
-Function Description
+## Function Description
 
 Complete the countApplesAndOranges function in the editor below. It should print the number of apples and oranges that land on Sam's house, each on a separate line.
 
@@ -27,7 +27,7 @@ countApplesAndOranges has the following parameter(s):
 - apples: integer array, distances at which each apple falls from the tree.
 - oranges: integer array, distances at which each orange falls from the tree.
 
-Input Format
+## Input Format
 
 The first line contains two space-separated integers denoting the respective values of s and t.
 The second line contains two space-separated integers denoting the respective values of a and n. 
@@ -35,19 +35,19 @@ The third line contains two space-separated integers denoting the respective val
 The fourth line contains  space-separated integers denoting the respective distances that each apple falls from point a.
 The fifth line contains  space-separated integers denoting the respective distances that each orange falls from point b.
 
-Constraints
+## Constraints
 - 1 <= s, t, a, b, m, n <= 10^5
 - -10^5 <= d <= 10^5
 - a < s < t < b
 
-Output Format
+## Output Format
 
 Print two integers on two different lines:
 
 1. The first integer: the number of apples that fall on Sam's house.
 2. The second integer: the number of oranges that fall on Sam's house.
 
-Sample Input 0
+## Sample Input 0
 
     7   11
     5   15
@@ -55,12 +55,12 @@ Sample Input 0
     -2  2   1
     5   -6
 
-Sample Output 0
+## Sample Output 0
 
     1
     1
 
-Explanation 0
+## Explanation 0
 
 The first apple falls at position 5 - 2 = 3.
 The second apple falls at position 5 + 2 = 7.
